@@ -40,18 +40,6 @@ With KnowTation, you can create, organize, and selectively share your citations 
 
 ---
 
-## 📦 Tech Stack
-
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
-- nostr-tools
-- Client-side AES encryption
-- mkstack + Goose scaffolded
-
----
-
 ## 🔗 Full License Text:
 
 [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
