@@ -52,21 +52,6 @@ With KnowTation, you can create, organize, and selectively share your citations 
 
 ---
 
-## 🗂 Folder Structure
-
-src/
-├── assets/ 
-├── components/ 
-├── pages/ 
-├── services/ 
-├── utils/ 
-├── types/ 
-App.tsx 
-AppRouter.tsx 
-main.tsx
-
----
-
 ## 🔗 Full License Text:
 
 [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
